@@ -1,2 +1,0 @@
-(this["webpackJsonpsubscription-ordering"]=this["webpackJsonpsubscription-ordering"]||[]).push([[0],{3:function(e,n,t){e.exports=t(9)},8:function(e,n,t){},9:function(e,n,t){"use strict";t.r(n);var r=t(0),i=t.n(r),o=t(2),a=t.n(o);var c=function(){return i.a.createElement("div",{className:"App"},i.a.createElement("h1",null,"Initial Commit"))};t(8);a.a.render(i.a.createElement(c,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.456051d6.chunk.js.map
