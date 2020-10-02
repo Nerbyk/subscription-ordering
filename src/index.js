@@ -1,6 +1,12 @@
 import React from "react"
-import ReactDOM from "react-dom"
-import App from "./App"
+import { render } from "react-dom"
 import "./App.scss"
+import App from "./App"
+import { SubscriptionProvider } from "./components/subscription/Provider"
 
-ReactDOM.render(<App />, document.getElementById("root"))
+render(
+  <SubscriptionProvider>
+    <App />
+  </SubscriptionProvider>,
+  document.getElementById("root")
+)

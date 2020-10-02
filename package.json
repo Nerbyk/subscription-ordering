@@ -1,6 +1,6 @@
 {
-  "homepage": "http://nerbyk.github.io/subscription-purchase",
-  "name": "subscription-purchase",
+  "homepage": "http://nerbyk.github.io/subscription-ordering",
+  "name": "subscription-ordering",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

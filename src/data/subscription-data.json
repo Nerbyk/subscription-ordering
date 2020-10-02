@@ -1,0 +1,33 @@
+{"subTypes":[
+  {
+    "title": "Personal",
+    "value": 5
+  },
+  {
+    "title": "Pro",
+    "value": 10
+  },
+  {
+    "title": "Enterprise",
+    "value": 20
+  }
+], 
+"subLengths":[
+{
+  "title": "1 month",
+  "value": 0
+},
+{
+  "title": "3 months",
+  "value": 5
+},
+{
+  "title": "6 months",
+  "value": 10
+},
+{
+  "title": "12 months",
+  "value": 15
+}
+]
+} 
